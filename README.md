@@ -2,6 +2,7 @@
 End-to-end sales forecasting system with serialized model, REST API, and Streamlit frontend deployed on Hugging Face.
 
 Frontend (Streamlit): https://dwidrich-superkart-frontend.hf.space/
+
 Backend (Flask API): https://dwidrich-superkart-backend.hf.space/
 
 *This project demonstrates end-to-end machine learning deployment, including model serialization, containerized APIs, and a web-based prediction interface.*
